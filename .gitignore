@@ -1,0 +1,17 @@
+# Fichiers de configuration avec clés API
+
+config.ini
+*.ini
+
+# Logs
+*.log
+
+# Environnements virtuels
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Fichiers système
+.DS_Store
+Thumbs.db

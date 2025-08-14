@@ -1,0 +1,11 @@
+# === EXTRACTEUR DE SOUS-TITRES ===
+# Aucune dépendance Python externe nécessaire pour extractor.py
+# Le script utilise uniquement les modules intégrés de Python
+
+# Dépendance externe requise :
+# FFmpeg doit être installé sur le système et accessible via PATH
+# Téléchargeable depuis : https://ffmpeg.org/download.html
+
+# === TRADUCTEUR ASS ===
+# Dépendances Python pour translator.py :
+openai>=1.0.0
